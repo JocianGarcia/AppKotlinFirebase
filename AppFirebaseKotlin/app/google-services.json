@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200328332263",
+    "firebase_url": "https://kotlinbaseapp-d901f.firebaseio.com",
+    "project_id": "kotlinbaseapp-d901f",
+    "storage_bucket": "kotlinbaseapp-d901f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200328332263:android:a2ff96c356a2442fecb342",
+        "android_client_info": {
+          "package_name": "com.utng.appfirebaseKotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200328332263-k0t6rrun4m35c0iu701fjos1ch92m0po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utng.appfirebaseKotlin",
+            "certificate_hash": "4ca33f97b195fa1725ed52c6b0f7b684e2c5d4ca"
+          }
+        },
+        {
+          "client_id": "200328332263-eqfn4ptl5hl32nif6a4mshs3o6eqftd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8N0fXr41cMTHa3QQltlmVxDOWbmoR1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200328332263-eqfn4ptl5hl32nif6a4mshs3o6eqftd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
